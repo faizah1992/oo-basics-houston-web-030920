@@ -10,7 +10,7 @@ class Shoe
   end 
   
   def cobble 
-    puts "repaired"
+    puts "new"
   end 
   
   
