@@ -1,1 +1,2 @@
-# Make yourc shoe class here!
+class Shoe
+end 
